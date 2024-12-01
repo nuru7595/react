@@ -9,5 +9,17 @@ body {
 }
 
 section {
-    @apply rounded-lg bg-black text-white p-2;
+    @apply rounded-lg bg-black text-white;
+}
+
+.title {
+    @apply text-center border-white p-1 font-bold text-green-600 border-b-2;
+}
+
+.b-title {
+    @apply text-center border-white p-1 font-bold text-green-600 border-t-2;
+}
+
+.box {
+    @apply p-2;
 }
