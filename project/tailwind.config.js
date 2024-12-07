@@ -1,15 +1,18 @@
 /** @type {import('tailwindcss').Config} */
-module.exports = {
-  content: ["*"],
+export default {
+  content: [
+    "./index.html",
+    "./src/**/*.{js,ts,jsx,tsx}",
+  ],
   theme: {
     extend: {
       colors: {
         text: '#20232A',
         bg: '#61DAFB'
+      },
+      fontFamily: {
+        ubuntu: ["Ubuntu", "sans-serif"]
       }
-    },
-    fontFamily: {
-      ubuntu: ["Ubuntu", "sans-serif"]
     },
     container: {
       padding: {

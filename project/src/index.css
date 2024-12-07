@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+    body {
+        @apply font-ubuntu bg-text text-text;
+    }
+    section {
+        @apply rounded-lg bg-bg my-4;
+    }
+    section>div {
+        @apply py-2 px-3 border-y-2 border-text;
+    }
+    span {
+        @apply text-bg bg-text rounded-full px-2 py-1;
+    }
+}
+
+section>h3 {
+    @apply text-center p-2 font-bold;
+}
+
+p {
+    @apply py-1;
+}
