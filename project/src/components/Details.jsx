@@ -2,13 +2,13 @@ function Details() {
     return (
         <>
             <section>
-                <h3>Update - v2.3.0</h3>
+                <h3>Update - v2.4.0</h3>
                 <div>
                     <p>
                         Started on: <span>01 December 2024</span>
                     </p>
                     <p>
-                        Last Updated: <span>07 December 2024</span>
+                        Last Updated: <span>12 December 2024</span>
                     </p>
                     <p>
                         Source:{" "}
@@ -17,7 +17,7 @@ function Details() {
                             target="_blank"
                             className="underline"
                         >
-                            react.dev
+                            React.dev
                         </a>
                     </p>
                 </div>
