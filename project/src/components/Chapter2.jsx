@@ -33,16 +33,16 @@ function Chapter2() {
                     <p>
                         <span>2.4.4</span> Declaring a winner...
                     </p>
-                    <p>
-                        <span>2.4.3</span> Taking turns...
-                    </p>
-                    <p>
-                        <span>2.4.2</span> Why immutability is important...
-                    </p>
-                    <p>
-                        <span>2.4.1</span> Lifting state up...
-                    </p>
                     <Board />
+                    <p>
+                        <span>2.4.3</span> Taking turns
+                    </p>
+                    <p>
+                        <span>2.4.2</span> Why immutability is important
+                    </p>
+                    <p>
+                        <span>2.4.1</span> Lifting state up
+                    </p>
                     <p>
                         <span>2.4</span> Completing the game
                     </p>

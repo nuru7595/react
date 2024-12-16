@@ -22,3 +22,6 @@ section > h3 {
 p {
     @apply py-1;
 }
+button {
+    @apply bg-transparent border border-black;
+}
