@@ -6,16 +6,16 @@ function Chapter2() {
             <section>
                 <h3>Chapter 02</h3>
                 <div>
-                    <p>
-                        <span>2.5.7</span> Wrapping up...
-                    </p>
-                    <p>
-                        <span>2.5.6</span> Final cleanup...
-                    </p>
-                    <p>
-                        <span>2.5.5</span> Implementing time travel...
-                    </p>
                     <Game />
+                    <p>
+                        <span>2.5.7</span> Wrapping up
+                    </p>
+                    <p>
+                        <span>2.5.6</span> Final cleanup
+                    </p>
+                    <p>
+                        <span>2.5.5</span> Implementing time travel
+                    </p>
                     <p>
                         <span>2.5.4</span> Picking a key
                     </p>

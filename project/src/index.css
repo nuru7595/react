@@ -28,3 +28,6 @@ button {
 li {
     @apply cursor-pointer py-1;
 }
+.reactBox {
+    @apply bg-text p-2 mb-2 w-1/2 mx-auto rounded-xl text-bg;
+}
