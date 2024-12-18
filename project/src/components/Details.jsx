@@ -2,13 +2,13 @@ function Details() {
     return (
         <>
             <section>
-                <h3>Update - v2.4.3</h3>
+                <h3>Update - v2.5.4</h3>
                 <div>
                     <p>
                         Started on: <span>01 December 2024</span>
                     </p>
                     <p>
-                        Last Updated: <span>16 December 2024</span>
+                        Last Updated: <span>18 December 2024</span>
                     </p>
                     <p>
                         Source:{" "}

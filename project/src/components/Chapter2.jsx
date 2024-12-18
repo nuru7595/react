@@ -1,4 +1,4 @@
-import Board from "./Chapter2/Board";
+import Game from "./Chapter2/Game";
 
 function Chapter2() {
     return (
@@ -7,33 +7,33 @@ function Chapter2() {
                 <h3>Chapter 02</h3>
                 <div>
                     <p>
-                        <span>2.5.7</span> Loading...
+                        <span>2.5.7</span> Wrapping up...
                     </p>
                     <p>
-                        <span>2.5.6</span> Loading...
+                        <span>2.5.6</span> Final cleanup...
                     </p>
                     <p>
-                        <span>2.5.5</span> Loading...
+                        <span>2.5.5</span> Implementing time travel...
+                    </p>
+                    <Game />
+                    <p>
+                        <span>2.5.4</span> Picking a key
                     </p>
                     <p>
-                        <span>2.5.4</span> Loading...
+                        <span>2.5.3</span> Showing the past moves
                     </p>
                     <p>
-                        <span>2.5.3</span> Loading...
+                        <span>2.5.2</span> Lifting state up, again
                     </p>
                     <p>
-                        <span>2.5.2</span> Loading...
+                        <span>2.5.1</span> Storing a history of moves
                     </p>
                     <p>
-                        <span>2.5.1</span> Loading...
+                        <span>2.5</span> Adding time travel
                     </p>
                     <p>
-                        <span>2.5</span> Loading...
+                        <span>2.4.4</span> Declaring a winner
                     </p>
-                    <p>
-                        <span>2.4.4</span> Declaring a winner...
-                    </p>
-                    <Board />
                     <p>
                         <span>2.4.3</span> Taking turns
                     </p>

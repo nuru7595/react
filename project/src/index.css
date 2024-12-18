@@ -23,5 +23,8 @@ p {
     @apply py-1;
 }
 button {
-    @apply bg-transparent border border-black;
+    @apply bg-transparent border border-bg;
+}
+li {
+    @apply cursor-pointer py-1;
 }
