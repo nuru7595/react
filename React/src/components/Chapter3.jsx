@@ -15,19 +15,18 @@ export default function Chapter3() {
                     <span>3.6</span> Step 4: Identify where your state should
                     live . . .
                 </p>
+                <FilterableProductTable />
                 <p>
                     <span>3.5</span> Step 3: Find the minimal but complete
-                    representation of UI state . . .
+                    representation of UI state
                 </p>
                 <p>
-                    <span>3.4</span> Step 2: Build a static version in React . .
-                    .
+                    <span>3.4</span> Step 2: Build a static version in React
                 </p>
                 <p>
                     <span>3.3</span> Step 1: Break the UI into a component
-                    hierarchy . . .
+                    hierarchy
                 </p>
-                <FilterableProductTable />
                 <p>
                     <span>3.2</span> Start with the mockup
                 </p>

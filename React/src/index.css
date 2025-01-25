@@ -13,7 +13,7 @@ section {
 section > div {
     @apply py-2 px-3 border-y-2 border-text;
 }
-span {
+p > span {
     @apply text-bg bg-text rounded-full px-2 py-1;
 }
 section > h3 {
@@ -29,5 +29,5 @@ li {
     @apply cursor-pointer py-1;
 }
 .reactBox {
-    @apply bg-text p-2 mb-2 w-1/2 mx-auto rounded-xl text-bg;
+    @apply bg-text p-4 mb-2 w-2/3 mx-auto rounded-xl text-bg;
 }
